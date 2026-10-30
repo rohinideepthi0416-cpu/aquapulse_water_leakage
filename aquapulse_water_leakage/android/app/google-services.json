@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384292279380",
+    "project_id": "aquapulse-5876a",
+    "storage_bucket": "aquapulse-5876a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384292279380:android:5354721f568db9fd2a89c1",
+        "android_client_info": {
+          "package_name": "com.aquapulse.aquapulse_water_leakage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsyDkSr275g98xgJPG8af3ODv_zYWOnGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
